@@ -28,4 +28,7 @@
 
 ### • Sales and Order Analysis in Stores
 
+### • Salespersons and the Amount They Sold
+
+### • Details of a Specific Salesperson
 
