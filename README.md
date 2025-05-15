@@ -1,6 +1,7 @@
 # Business Intelligence Project (Power BI)
 
 
+
 ## Part 1: Adventure Company's Business Insight and Analytics
 
 ### • Sales 
@@ -12,6 +13,7 @@
 ### • Order Analysis
 
 ### • Product Analysis
+
 
 
 ## Part 2:  Adventure Company's Sales Analysis
