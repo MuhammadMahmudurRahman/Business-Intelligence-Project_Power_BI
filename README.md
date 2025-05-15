@@ -1,5 +1,7 @@
 # Business Intelligence Project (Power BI)
 
+## Power BI is utilized in this project to analyze and derive business insights for AdventureWorks Company. Power BI is a powerful business intelligence tool that enables data visualization, reporting, and interactive analytics. This project is divided into two parts: AdventureWorks Company's Business Insight and Analytics and AdventureWorks Company's Sales Analysis.
+
 
 
 ## Part 1: AdventureWorks Company's Business Insight and Analytics
