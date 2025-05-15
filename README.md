@@ -2,7 +2,7 @@
 
 
 
-## Part 1: Adventure Company's Business Insight and Analytics
+## Part 1: AdventureWorks Company's Business Insight and Analytics
 
 ### • Sales 
 
@@ -16,7 +16,7 @@
 
 
 
-## Part 2:  Adventure Company's Sales Analysis
+## Part 2:  AdventureWorks Company's Sales Analysis
 
 ### • Sales Dashboard
 
