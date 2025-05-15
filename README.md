@@ -6,7 +6,7 @@
 
 ## Part 1: AdventureWorks Company's Business Insight and Analytics
 
-### • Sales 
+### • Sales Analysis
 
 ### • Profit Analysis
 
